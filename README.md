@@ -3,7 +3,7 @@
 Your AI-powered research paper companion
 
 PaperGist helps students, researchers, and professionals instantly summarize complex research papers into clear, structured insights.
-Powered by Google Gemini AI, it transforms dense academic writing into beginner-friendly, technical, code-oriented, or mathematical explanations — tailored to your needs.
+It transforms dense academic writing into beginner-friendly, technical, code-oriented, or mathematical explanations — tailored to your needs.
 
 ✨ Key Features
 
